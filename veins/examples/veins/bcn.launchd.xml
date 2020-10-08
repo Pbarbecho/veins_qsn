@@ -1,0 +1,7 @@
+<launch>
+    <copy file="bcn.net.xml" />
+    <copy file="bcn.rou.xml" />
+    <copy file="bcn.poly.xml" />
+    <copy file="bcn.sumo.cfg" type="config" />
+</launch>
+
